@@ -35,6 +35,10 @@ h2, h3 {
     font-family: Georgia, Times, 'Times New Roman', serif;
 }
 
+h3 {
+    color: black;
+}
+
 hr {
     color: #666666;
     height: 8px;
