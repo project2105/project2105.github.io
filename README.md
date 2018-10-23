@@ -27,6 +27,9 @@ Paul Jensen | https://www.linkedin.com/in/paul-jensen-9b1a6311/ | https://github
 startbootstrap.com – bootstrap templates
 
 unsplash.com - photos
+
   photo of Chicago skyline by Max Bender
+  
   photo of keyboard by I M Nik
+  
   photo of books by Valentin
